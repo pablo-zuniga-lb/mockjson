@@ -1,2 +1,2 @@
 # mockjson
-data fake para moar
+To get fake data for testing
